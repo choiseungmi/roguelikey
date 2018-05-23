@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "roguelikey", "roguelikey.csproj", "{4480DF81-3A78-55CA-DC74-7A0BADB5129B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "roguelikey.Editor", "roguelikey.Editor.csproj", "{A10D40D4-6A00-49CD-9FC5-766BFECFF3F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4480DF81-3A78-55CA-DC74-7A0BADB5129B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4480DF81-3A78-55CA-DC74-7A0BADB5129B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4480DF81-3A78-55CA-DC74-7A0BADB5129B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4480DF81-3A78-55CA-DC74-7A0BADB5129B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A10D40D4-6A00-49CD-9FC5-766BFECFF3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10D40D4-6A00-49CD-9FC5-766BFECFF3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10D40D4-6A00-49CD-9FC5-766BFECFF3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10D40D4-6A00-49CD-9FC5-766BFECFF3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
